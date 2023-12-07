@@ -8,6 +8,16 @@ It is a super "quick and dirty" dashboard I created during my paternity leave to
 
 # Instructions for use
 
+First download this repository to your computer by downloading the repo as a zip by clicking on "Code" -> "Download Zip" on this page.
+
+![Repo screenshot](docs/download_repo_screenshot.png)
+
+Unzip the file on your own computer. There are two main files:
+- "Placeholder Metrics.xlsx"
+  - This is the Excel Spreadsheet that the dashboard reads data from
+- "Baby Feeding Dashboard.pbix"
+  - This is the actual Power BI dashboard
+
 ## Data
 
 The data is stored in "Placeholder Metrics.xlsx" and will need to be updated to suit your own baby's data. 
@@ -59,7 +69,7 @@ Note that the baby's weights are for a girl born on 20/11/2023, the dates will n
 The Power BI Dashboard is in "Baby Feeding Dashboard.pbix"
 
 Instructions for use are as follows:
-- [Download & Install Power BI Desktop for Free](https://powerbi.microsoft.com/en-us/downloads/)
+- [Download & Install Power BI Desktop for Free](https://powerbi.microsoft.com/en-us/downloads/) on a Windows computer
 - Open "Baby Feeding Dashboard.pbix"
 - In the header ribbon, click on the "Transform Data" dropdown menu and select "Data source settings"
 ![Data Source Settings](docs/data_source_settings.png)
