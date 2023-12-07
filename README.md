@@ -68,6 +68,10 @@ Note that the baby's weights are for a girl born on 20/11/2023, the dates will n
 
 The Power BI Dashboard is in "Baby Feeding Dashboard.pbix"
 
+If you are unfamiliar with Power BI, there is some free training available from Microsoft:
+- [Model data with Power BI](https://learn.microsoft.com/en-us/training/paths/model-data-power-bi/)
+- [Build Power BI visuals and reports](https://learn.microsoft.com/en-us/training/paths/build-power-bi-visuals-reports/)
+
 Instructions for use are as follows:
 - [Download & Install Power BI Desktop for Free](https://powerbi.microsoft.com/en-us/downloads/) on a Windows computer
 - Open "Baby Feeding Dashboard.pbix"
